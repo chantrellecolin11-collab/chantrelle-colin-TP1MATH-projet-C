@@ -1,0 +1,517 @@
+[
+    {
+        "id": 1,
+        "name": "Superman",
+        "id-api": 644,
+        "slug": "644-superman",
+        "powerstats": {
+            "intelligence": 94,
+            "strength": 100,
+            "speed": 100,
+            "durability": 100,
+            "power": 100,
+            "combat": 85
+        },
+        "appearance": {
+            "gender": "Male",
+            "race": "Kryptonian",
+            "height": [
+                "6'3",
+                "191 cm"
+            ],
+            "weight": [
+                "225 lb",
+                "101 kg"
+            ],
+            "eyeColor": "Blue",
+            "hairColor": "Black"
+        },
+        "weight": [
+            "225 lb",
+            "101 kg"
+        ],
+        "eyeColor": "Blue",
+        "hairColor": "Black"
+    },
+    {
+        "id": 2,
+        "name": "Batman",
+        "id-api": 69,
+        "slug": "69-batman",
+        "powerstats": {
+            "intelligence": 81,
+            "strength": 40,
+            "speed": 29,
+            "durability": 55,
+            "power": 63,
+            "combat": 90
+        },
+        "appearance": {
+            "gender": "Male",
+            "race": "Human",
+            "height": [
+                "5'10",
+                "178 cm"
+            ],
+            "weight": [
+                "170 lb",
+                "77 kg"
+            ],
+            "eyeColor": "Blue",
+            "hairColor": "Black"
+        },
+        "weight": [
+            "170 lb",
+            "77 kg"
+        ],
+        "eyeColor": "Blue",
+        "hairColor": "Black"
+    },
+    {
+        "id": 3,
+        "name": "Spider-Man",
+        "id-api": 620,
+        "slug": "620-spider-man",
+        "powerstats": {
+            "intelligence": 90,
+            "strength": 55,
+            "speed": 67,
+            "durability": 75,
+            "power": 74,
+            "combat": 85
+        },
+        "appearance": {
+            "gender": "Male",
+            "race": "Human",
+            "height": [
+                "5'10",
+                "178 cm"
+            ],
+            "weight": [
+                "165 lb",
+                "74 kg"
+            ],
+            "eyeColor": "Hazel",
+            "hairColor": "Brown"
+        },
+        "weight": [
+            "165 lb",
+            "74 kg"
+        ],
+        "eyeColor": "Hazel",
+        "hairColor": "Brown"
+    },
+    {
+        "id": 4,
+        "name": "Wonder Woman",
+        "id-api": 720,
+        "slug": "720-wonder-woman",
+        "powerstats": {
+            "intelligence": 88,
+            "strength": 100,
+            "speed": 79,
+            "durability": 100,
+            "power": 100,
+            "combat": 100
+        },
+        "appearance": {
+            "gender": "Female",
+            "race": "Amazon",
+            "height": [
+                "6'0",
+                "183 cm"
+            ],
+            "weight": [
+                "165 lb",
+                "74 kg"
+            ],
+            "eyeColor": "Blue",
+            "hairColor": "Black"
+        },
+        "weight": [
+            "165 lb",
+            "74 kg"
+        ],
+        "eyeColor": "Blue",
+        "hairColor": "Black"
+    },
+    {
+        "id": 5,
+        "name": "Iron Man",
+        "id-api": 346,
+        "slug": "346-iron-man",
+        "powerstats": {
+            "intelligence": 100,
+            "strength": 85,
+            "speed": 58,
+            "durability": 85,
+            "power": 100,
+            "combat": 64
+        },
+        "appearance": {
+            "gender": "Male",
+            "race": "Human",
+            "height": [
+                "6'6",
+                "198 cm"
+            ],
+            "weight": [
+                "425 lb",
+                "191 kg"
+            ],
+            "eyeColor": "Blue",
+            "hairColor": "Black"
+        },
+        "weight": [
+            "425 lb",
+            "191 kg"
+        ],
+        "eyeColor": "Blue",
+        "hairColor": "Black"
+    },
+    {
+        "id": 6,
+        "name": "Captain America",
+        "id-api": 149,
+        "slug": "149-captain-america",
+        "powerstats": {
+            "intelligence": 69,
+            "strength": 19,
+            "speed": 38,
+            "durability": 55,
+            "power": 60,
+            "combat": 100
+        },
+        "appearance": {
+            "gender": "Male",
+            "race": "Human",
+            "height": [
+                "6'2",
+                "188 cm"
+            ],
+            "weight": [
+                "240 lb",
+                "108 kg"
+            ],
+            "eyeColor": "blue",
+            "hairColor": "blond"
+        },
+        "weight": [
+            "240 lb",
+            "108 kg"
+        ],
+        "eyeColor": "blue",
+        "hairColor": "blond"
+    },
+    {
+        "id": 7,
+        "name": "Hulk",
+        "id-api": 332,
+        "slug": "332-hulk",
+        "powerstats": {
+            "intelligence": 88,
+            "strength": 100,
+            "speed": 63,
+            "durability": 100,
+            "power": 98,
+            "combat": 85
+        },
+        "appearance": {
+            "gender": "Male",
+            "race": "Human / Radiation",
+            "height": [
+                "8'0",
+                "244 cm"
+            ],
+            "weight": [
+                "1400 lb",
+                "630 kg"
+            ],
+            "eyeColor": "Green",
+            "hairColor": "Green"
+        },
+        "weight": [
+            "1400 lb",
+            "630 kg"
+        ],
+        "eyeColor": "Green",
+        "hairColor": "Green"
+    },
+    {
+        "id": 8,
+        "name": "Thor",
+        "id-api": 659,
+        "slug": "659-thor",
+        "powerstats": {
+            "intelligence": 69,
+            "strength": 100,
+            "speed": 83,
+            "durability": 100,
+            "power": 100,
+            "combat": 100
+        },
+        "appearance": {
+            "gender": "Male",
+            "race": "Asgardian",
+            "height": [
+                "6'6",
+                "198 cm"
+            ],
+            "weight": [
+                "640 lb",
+                "288 kg"
+            ],
+            "eyeColor": "Blue",
+            "hairColor": "Blond"
+        },
+        "weight": [
+            "640 lb",
+            "288 kg"
+        ],
+        "eyeColor": "Blue",
+        "hairColor": "Blond"
+    },
+    {
+        "id": 9,
+        "name": "Wolverine",
+        "id-api": 717,
+        "slug": "717-wolverine",
+        "powerstats": {
+            "intelligence": 63,
+            "strength": 32,
+            "speed": 50,
+            "durability": 100,
+            "power": 89,
+            "combat": 100
+        },
+        "appearance": {
+            "gender": "Male",
+            "race": "Mutant",
+            "height": [
+                "5'3",
+                "160 cm"
+            ],
+            "weight": [
+                "300 lb",
+                "135 kg"
+            ],
+            "eyeColor": "Blue",
+            "hairColor": "Black"
+        },
+        "weight": [
+            "300 lb",
+            "135 kg"
+        ],
+        "eyeColor": "Blue",
+        "hairColor": "Black"
+    },
+    {
+        "id": 10,
+        "name": "Black Widow",
+        "id-api": 107,
+        "slug": "107-black-widow",
+        "powerstats": {
+            "intelligence": 75,
+            "strength": 13,
+            "speed": 33,
+            "durability": 30,
+            "power": 36,
+            "combat": 100
+        },
+        "appearance": {
+            "gender": "Female",
+            "race": "Human",
+            "height": [
+                "5'7",
+                "170 cm"
+            ],
+            "weight": [
+                "131 lb",
+                "59 kg"
+            ],
+            "eyeColor": "Green",
+            "hairColor": "Auburn"
+        },
+        "weight": [
+            "131 lb",
+            "59 kg"
+        ],
+        "eyeColor": "Green",
+        "hairColor": "Auburn"
+    },
+    {
+        "id": 11,
+        "name": "The Flash",
+        "id-api": 267
+    },
+    {
+        "id": 12,
+        "name": "Silver Surfer",
+        "id-api": 598,
+        "slug": "598-silver-surfer",
+        "powerstats": {
+            "intelligence": 56,
+            "strength": 100,
+            "speed": 100,
+            "durability": 90,
+            "power": 100,
+            "combat": 32
+        },
+        "appearance": {
+            "gender": "Male",
+            "race": "Alien",
+            "height": [
+                "6'4",
+                "193 cm"
+            ],
+            "weight": [
+                "225 lb",
+                "101 kg"
+            ],
+            "eyeColor": "White",
+            "hairColor": "No Hair"
+        },
+        "weight": [
+            "225 lb",
+            "101 kg"
+        ],
+        "eyeColor": "White",
+        "hairColor": "No Hair"
+    },
+    {
+        "id": 13,
+        "name": "Aquaman",
+        "id-api": 38,
+        "slug": "38-aquaman",
+        "powerstats": {
+            "intelligence": 81,
+            "strength": 85,
+            "speed": 79,
+            "durability": 80,
+            "power": 100,
+            "combat": 80
+        },
+        "appearance": {
+            "gender": "Male",
+            "race": "Atlantean",
+            "height": [
+                "6'1",
+                "185 cm"
+            ],
+            "weight": [
+                "325 lb",
+                "146 kg"
+            ],
+            "eyeColor": "Blue",
+            "hairColor": "Blond"
+        },
+        "weight": [
+            "325 lb",
+            "146 kg"
+        ],
+        "eyeColor": "Blue",
+        "hairColor": "Blond"
+    },
+    {
+        "id": 14,
+        "name": "Black Panther",
+        "id-api": 106,
+        "slug": "106-black-panther",
+        "powerstats": {
+            "intelligence": 88,
+            "strength": 16,
+            "speed": 30,
+            "durability": 60,
+            "power": 41,
+            "combat": 100
+        },
+        "appearance": {
+            "gender": "Male",
+            "race": "Human",
+            "height": [
+                "6'0",
+                "183 cm"
+            ],
+            "weight": [
+                "200 lb",
+                "90 kg"
+            ],
+            "eyeColor": "Brown",
+            "hairColor": "Black"
+        },
+        "weight": [
+            "200 lb",
+            "90 kg"
+        ],
+        "eyeColor": "Brown",
+        "hairColor": "Black"
+    },
+    {
+        "id": 15,
+        "name": "Doctor Strange",
+        "id-api": 226,
+        "slug": "226-doctor-strange",
+        "powerstats": {
+            "intelligence": 100,
+            "strength": 10,
+            "speed": 12,
+            "durability": 84,
+            "power": 100,
+            "combat": 60
+        },
+        "appearance": {
+            "gender": "Male",
+            "race": "Human",
+            "height": [
+                "6'2",
+                "188 cm"
+            ],
+            "weight": [
+                "180 lb",
+                "81 kg"
+            ],
+            "eyeColor": "Grey",
+            "hairColor": "Black"
+        },
+        "weight": [
+            "180 lb",
+            "81 kg"
+        ],
+        "eyeColor": "Grey",
+        "hairColor": "Black"
+    },
+    {
+        "id": 16,
+        "name": "Supergirl",
+        "id-api": 643,
+        "slug": "643-supergirl",
+        "powerstats": {
+            "intelligence": 94,
+            "strength": 100,
+            "speed": 100,
+            "durability": 100,
+            "power": 100,
+            "combat": 75
+        },
+        "appearance": {
+            "gender": "Female",
+            "race": "Kryptonian",
+            "height": [
+                "5'5",
+                "165 cm"
+            ],
+            "weight": [
+                "120 lb",
+                "54 kg"
+            ],
+            "eyeColor": "Blue",
+            "hairColor": "Blond"
+        },
+        "weight": [
+            "120 lb",
+            "54 kg"
+        ],
+        "eyeColor": "Blue",
+        "hairColor": "Blond"
+    }
+]

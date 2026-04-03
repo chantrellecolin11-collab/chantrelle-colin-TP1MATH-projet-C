@@ -3,7 +3,6 @@
 #include <string.h>
 #include <time.h>
 #include "../cJSON/cJSON.h"
-//compiler en meme temps que cjson: gcc main.c ../cJSON/cJSON.c
 //defition de la structure de hero et de ses sous structures
 typedef struct {
         int intelligence;

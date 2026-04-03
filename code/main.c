@@ -643,7 +643,7 @@ void ajouterScore(int score, cJSON *rootScore){
 }
 
 //lance un partie du quizz et ajoute le score dans scores.json
-//une partie est composée de 5 question, les powerstats d un heros sont affichees et 4 heros sont proposés l utilisateur doit deviner a quel hero correspondent les powerstats
+//une partie est composée de 5 question, les caracteristiques physiques d un heros sont affichees et 4 heros sont proposés l utilisateur doit deviner a quel hero correspondent les powerstats
 void nouveauQuizz(Hero heros[],int size, cJSON *rootScore){
     int score=0, i=0, choix=1,ok1, ok2, ok3, ok4,okrep, posGagnante;
     Hero gagnant, h1, h2, h3, reponses[4],temp;
@@ -734,7 +734,7 @@ void afficheScore(int scores[], int sizeScores){
     }
 }
 
-//permet a l utilisateur de faire un quizz sur les powerstats des heros et stocke chaque score dans scores.json
+//permet a l utilisateur de faire un quizz sur les caracteristiques physiques des heros et stocke chaque score dans scores.json
 void quizz(Hero heros[],int size){
     int choix=-1,best;
     char bufferScores[100000];

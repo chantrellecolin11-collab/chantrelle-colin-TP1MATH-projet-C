@@ -376,6 +376,7 @@ void rechercheFiltree(int filtres[6][3], Hero heros[], int size){
     for (int i=0; i<size; i++){
         copieTab[i]=heros[i];
     }
+    //raye du tableau toutes les cases ne correspondants aux filtres ou dont on ne connait la valeur (-1)
     for(int i=0; i<size;i++){
         if (filtres[0][0]==1){
             if (filtres[0][1]==1){//<
@@ -483,7 +484,7 @@ void rechercheAvancee(Hero heros[], int size){
 //affiche le menu de la gestion des favoris
 void afficheMenuFav(){
     printf("+-------------------GESTION-FAVORIS-------------------+\n");
-    printf("|1:AfficherFavoris                                    |\n");
+    printf("|1:Afficher les favoris                               |\n");
     printf("|2:Ajouter un hero favoris                            |\n");
     printf("|3:Supprimer un hero favoris                          |\n");
     printf("|0:Quitter la gestion des favoris                     |\n");
@@ -706,10 +707,10 @@ void nouveauQuizz(Hero heros[],int size, cJSON *rootScore){
         if (choix!=0){
             if (choix==posGagnante+1){
                 score+=1;
-                printf("\nBONNE REPONSE ! (%s)\n", gagnant.name);
+                printf("\nBONNE REPONSE ! (%s)\n\n", gagnant.name);
             }
             else{
-                printf("\nMauvaise reponse, il fallait donner la reponse suivante : %s\n",gagnant.name);
+                printf("\nMauvaise reponse, il fallait donner la reponse suivante : %s\n\n",gagnant.name);
             }
         }
         i+=1;
